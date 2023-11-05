@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Course Library/Source_Files/SampleScene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Challenge 4/Challenge 4.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
