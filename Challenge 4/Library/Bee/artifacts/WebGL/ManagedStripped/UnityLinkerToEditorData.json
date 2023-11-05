@@ -36,8 +36,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -51,8 +50,7 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -89,8 +87,7 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -110,8 +107,7 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -131,8 +127,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -146,8 +141,7 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -173,8 +167,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -182,8 +175,7 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -207,8 +199,7 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -222,8 +213,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -277,8 +267,7 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -324,8 +313,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -357,8 +345,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Challenge 4/Challenge 4.unity",
-              "Assets/Course Library/Source_Files/SampleScene.unity"
+              "Assets/Challenge 4/Challenge 4.unity"
             ],
             "dependencyType": 0,
             "icon": null
